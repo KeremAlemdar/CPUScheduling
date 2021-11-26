@@ -23,6 +23,6 @@ How to run:
 
 ./schedule 'inputfile' 'quantum'
 
-<quantum> is the time quantum used in RR scheduling.
+'quantum' is the time quantum used in RR scheduling.
 
 Output includes Arrival time, Burst lenght, Finish, TurnAround time and Waiting time for each process and for each scheduling algorithm and average turnaround of the scheduling algorithms.
