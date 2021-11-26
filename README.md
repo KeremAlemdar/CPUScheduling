@@ -9,9 +9,13 @@ RR(q) (Round Robin)
 
 For each burst, data set includes burst number, the arrival time and burst length. For example:
 1 0 60
+
 2 10 120
+
 3 15 50
+
 4 35 100
+
 ...
 
 How to run:
