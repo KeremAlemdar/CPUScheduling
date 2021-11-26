@@ -20,7 +20,8 @@ For each burst, data set includes burst number, the arrival time and burst lengt
 ...
 
 How to run:
-./schedule <inputfile><quantum>
+
+./schedule 'inputfile' 'quantum'
 
 <quantum> is the time quantum used in RR scheduling.
 
